@@ -38,4 +38,6 @@ char *convertToStr(int n);
 void _putNum(int n);
 void print_arr(const int *array, size_t size);
 void _putchar(char c);
+void shell_sort(int *array, size_t size);
+
 #endif
